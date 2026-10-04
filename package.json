@@ -1,0 +1,14 @@
+{
+  "name": "discord-checker",
+  "version": "1.0.0",
+  "description": "Discord Token Checker with Telegram notifications",
+  "type": "module",
+  "scripts": {
+    "start": "node checker.js",
+    "check": "node checker.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "readline": "^1.3.0"
+  }
+}
